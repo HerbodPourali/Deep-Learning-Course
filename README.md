@@ -1,7 +1,7 @@
 # Deep Learning — Notebook Collection
 
-This repository contains a structured set of notebooks developed throughout an advanced graduate-level Deep Learning course.  
-The material progresses from foundational concepts to modern architectures, covering core neural-network mechanics, key computer-vision tasks, sequence models and LLMs, generative modeling, and self-supervised/text–image techniques.
+This repository contains a collection of notebooks exploring graduate-level Deep Learning topics.  
+The notebooks span a wide range of deep-learning topics, starting from fundamental neural-network operations and extending to computer vision, sequence models and LLMs, generative techniques, and self-supervised and text–image approaches.
 
 The repository is organized into five parts.
 
@@ -89,8 +89,7 @@ The repository is organized into five parts.
 
 ## Academic Context
 
-These notebooks were prepared as part of the **Deep Learning course at SUT (MSc)**.  
-They reflect hands-on implementations designed to build practical intuition for foundational and modern deep-learning methods.
+These notebooks are based on materials from the **Deep Learning course at SUT (MSc)**.  
 
 ---
 
